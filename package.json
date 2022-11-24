@@ -1,0 +1,25 @@
+{
+  "name": "replace-file-by-list",
+  "version": "1.0.1",
+  "description": "replace files by a user-defined replacement list",
+  "main": "replace-file-by-list.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "replace",
+    "file",
+    "config",
+    "list"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/replace-file-by-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/replace-file-by-list/issues"
+  },
+  "homepage": "https://github.com/adf0001/replace-file-by-list#readme"
+}
